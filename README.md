@@ -8,7 +8,7 @@ Checkout out all the github repos
 - [docs-aegis-india](https://docs-aegis-india.vercel.app/) : DOCS [GitHub](https://github.com/killerz3/docs-aegis-india)
 
 - PPT : [LINK](https://drive.google.com/file/d/1FME6w8NwahZOooB36-OikMDuf_E_dxH3/view?usp=drive_link)
-- Videov: [LINK]()
+- Video: [LINK](https://youtu.be/3hW2OV1JsCQ)
 
 ## Local Setup Instructions for aegis-india (Windows/Macos/Linux)
 
