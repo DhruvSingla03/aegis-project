@@ -2,13 +2,13 @@
 
 Checkout out all the github repos
 
-- [Aeigis-Core](https://www.npmjs.com/package/@algoholics/aegis-core) : Simple framework agnostic Npm package allowing to integrate passive tracking to your website. [GitHub](https://github.com/killerz3/aegis-core)
-- [Aegis-engine](https://github.com/killerz3/aegis-engine) : Self-hostable Python Microservice for ml infrence . [GitHub](https://github.com/killerz3/aegis-engine)
-- [Aegis-India](https://aegis-india.vercel.app/) : Fully hosted plugin-play solution easily integrated with **aegis-core** [Github](https://github.com/killerz3/aegis-engine)
+- [Aeigis-Core](https://www.npmjs.com/package/@algoholics/aegis-core) : Simple framework agnostic Npm package allowing to integrate passive tracking to your website. [GitHub](https://github.com/DhruvSingla03/aegis-core)
+- [Aegis-engine](https://github.com/killerz3/aegis-engine) : Self-hostable Python Microservice for ml infrence. [GitHub](https://github.com/killerz3/aegis-engine)
+- [Aegis-India](https://aegis-india.vercel.app/) : Fully hosted plugin-play solution easily integrated with **aegis-core**. [Github](https://github.com/DhruvSingla03/AegisIndia)
 - [docs-aegis-india](https://docs-aegis-india.vercel.app/) : DOCS [GitHub](https://github.com/killerz3/docs-aegis-india)
 
-- PPT : [LINK](https://drive.google.com/file/d/1FME6w8NwahZOooB36-OikMDuf_E_dxH3/view?usp=drive_link)
-- Video: [LINK](https://youtu.be/3hW2OV1JsCQ)
+- PPT : [LINK](https://drive.google.com/file/d/1tsP-vZVYMgXHHiU_jbC5A4N9iQLsPuxP/view?usp=sharing)
+- Video: [LINK](https://youtu.be/fCmGGHqIccQ)
 
 ## Local Setup Instructions for aegis-india (Windows/Macos/Linux)
 
